@@ -1,0 +1,72 @@
+#header2{width:100%; text-align:center;}
+#header2 .headerTop{min-width:1200px; width:calc(100% - 100px); padding:20px 0; margin:0 auto; display:block;}
+#header2 .gnb{float:right; margin-top:15px;}
+#header2 .gnb li{float:left; margin-right:30px;}
+#header2 .gnb li.last{margin-right:0;}
+
+.adminBoard{background:#f4f4f4; padding:70px 0 100px;}
+.adminContents{width:1200px; margin:0 auto;}
+.adminContents .tit{font-size:30px; padding-bottom:15px; border-bottom:1px solid #ccc;}
+.adminContents table{border:1px solid #e1e1e1; border-collapse:collapse;}
+.adminContents table td{background:#fff;}
+
+
+.adminBoard2{background:#f4f4f4; padding:10px 0 20px;}
+
+/* 리스트 */
+.adminContents #bo_list a.btn_b02{border-radius:0; height:40px; line-height:40px; display:inline-block; padding:0 20px; text-align:center; box-sizing:border-box;}
+.adminContents .bo_v_left li button{border-radius:0; height:40px;}
+.adminContents .examsub{margin-top:20px;}
+
+/* 읽기 */
+.adminContents #bo_v{padding:20px; margin-top:20px;}
+.adminContents #bo_v_title .bo_v_tit{padding:0 0 20px;}
+
+/* 쓰기 */
+.adminContents #bo_w{background:#fff; border-top:2px solid #363636; margin-top:20px; padding:20px;}
+.adminContents #autosave_wrapper{margin-bottom:20px;}
+.adminContents .write_div>span{display:block; padding:0 0 10px;}
+.adminContents .full_input{width:100%;}
+.adminContents .lineBox{width:100%; padding:10px; border:1px solid #e1e1e1; box-sizing:border-box;}
+.adminContents .lineBox span{padding:0 20px 0 5px; vertical-align:middle;}
+.adminContents #autosave_wrapper>span{display:block; padding:0 0 10px;}
+.adminContents .wr_content>span{display:block; padding:0 0 10px;}
+.adminContents .write_div{margin-bottom:20px !important;}
+.adminContents .write_div>label{display:block; padding:0 0 10px;}
+.examsub #bo_w table.inputTable{border-collapse:collapse; width:100%; margin-bottom:10px;}
+.examsub #bo_w table.inputTable th{background:#f4f4f4; padding:0 20px; height:40px; width:15%; border:1px solid #e1e1e1; text-align:left;}
+.examsub #bo_w table.inputTable td{background:#fff; border:1px solid #e1e1e1; width:85%; padding:0 10px;}
+.examsub #bo_w table.inputTable td select{border:0; width:100px;}
+.examsub #bo_w table.inputTable .bo_w_flie{display:none;}
+.examsub #bo_w .bo_w_info .frm_input{border:0;}
+.examsub .check>tbody>tr>td{padding:30px;}
+.examsub .check .title{height:40px; background:#f4f4f4; text-align:center; border-bottom:1px solid #e1e1e1; padding:0;}
+.examsub .checkList{font-size:14px; border:0;}
+.examsub .checkList td{height:40px;}
+.examsub .checkList td input{margin-right:5px; width:15px; height:15px;}
+.examsub .btnArea{display:inline-block; width:100%; padding-top:10px;}
+.examsub .btnArea>input{float:left;}
+.examsub .btnArea p{float:right;}
+
+
+/* 팝업관리 */
+.tit span{font-size:16px; padding-left:10px;}
+.adminPop{border-top:2px solid #363636; padding:20px; background:#fff;}
+.adminPop .popCon{display:flex; width:100%; background:#f4f4f4; border:1px solid #e1e1e1; align-content: center; padding:10px; box-sizing:border-box; margin-bottom:10px;}
+.adminPop .popCon > span{width:110px; padding:20px 10px; display:flex; align-items: center;}
+.adminPop .popCon ul{width:calc(100% - 100px); background:#fff;}
+.adminPop .popCon li{display:flex; border:1px solid #e1e1e1; align-items:center; padding-right:10px;}
+.adminPop .popCon li:last-of-type{border-top:0;}
+.adminPop .popCon li div{padding:15px; background:#f4f4f4; border-right:1px solid #e1e1e1; width:70px; margin-right:10px;}
+.adminPop .popCon li input{width:calc(100% - 100px); border:0;}
+.adminPop .popCon li input[type='text']{height:40px;}
+.adminPop .popDel{width:100px; background:#898989; color:#fff; border:0; margin-left:10px;}
+.adminPop .popAdd{width:100%; height:50px; background:#f4f4f4; border:1px solid #e1e1e1;}
+.adminPop input[type='submit']{background:#6fa8bd; border:0; color:#fff; width:100px; height:35px; margin-top:20px; float:right;}
+
+
+.adminPop2 {border-top:2px solid #363636; padding:10px; background:#fff;}
+.adminPop2 .menuBtn {padding:5px; background:#898989; border:1px solid #e1e1e1; color:#fff; margin-right:10px; margin-bottom:5px;}
+
+
+.adminPop3 { padding:0px; background:#fff; }

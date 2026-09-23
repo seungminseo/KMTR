@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.kdri.co.kr	TRUE	/	FALSE	1999999999	PHPSESSID	n3s9392938n2ork8d2ttb5f3fc
+www.kdri.co.kr	TRUE	/	FALSE	1999999999	2a0d2363701f23f8a75028924a3af643	MTI1LjE0My4yNC45OA%3D%3D
+www.kdri.co.kr	TRUE	/	FALSE	1999999999	e1192aefb64683cc97abb83c71057733	dGVzdF9pbmZv
+
